@@ -5,7 +5,7 @@ window.__RUNTIME_CONFIG__ = {
       {
         domainId: 0,
         networkId: 42,
-        name: "Ethereum - Chikochain",
+        name: "Chikochain",
         decimals: 18,
         bridgeAddress: "0x3FBEADebcbbD56C5e6a6BD9eBe454897cae34cF1",
         erc20HandlerAddress: "0xa69a92fd6E66b1C0bcfa2Bf473626F4C70bbbAF6",
@@ -26,7 +26,7 @@ window.__RUNTIME_CONFIG__ = {
       {
         domainId: 1,
         networkId: 137,
-        name: "Ethereum - Polygon",
+        name: "Polygon",
         decimals: 18,
         bridgeAddress: "0x006f485B4216759cfb8979DE2E4974f74c95585D",
         erc20HandlerAddress: "0xaFfCFf9AA352E8f3960e2B9538164053F8C9E264",
